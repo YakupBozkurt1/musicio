@@ -9,9 +9,8 @@ public class MusicioApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(MusicioApplication.class, args);
-        System.out.println("bu kod emre tarafından yazıldı deneme");
-        System.out.println("deneme");
-        System.out.println("commit de  kullanalım projede ");
+
+
     }
 
 }
