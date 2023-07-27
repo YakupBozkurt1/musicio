@@ -6,6 +6,6 @@ import codinigio.musicio.business.Requests.UpdatePasswordRequest;
 public interface UserService {
 
     public void add(CreateNewUserRequest createNewUserRequest);
-    public void changepassword(UpdatePasswordRequest updatePasswordRequest);
+    public void changePassword(UpdatePasswordRequest updatePasswordRequest);
     public void delete(int id);
 }
